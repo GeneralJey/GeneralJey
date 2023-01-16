@@ -8,8 +8,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Vulneravility Management Lab</b>
-  - [Nessus](https://github.com/GeneralJey/ActiveDirectoryLab)
+- <b>Vulneravility Management</b>
+  - [Nessus Lab](https://github.com/GeneralJey/ActiveDirectoryLab)
 
 - <b>PowerShell</b>
   - [Active Directory Home Lab]()
