@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Vulneravility Management</b>
+- <b>Vulneravility Management Lab</b>
   - [Nessus](https://github.com/GeneralJey/ActiveDirectoryLab)
 
 - <b>PowerShell</b>
