@@ -11,7 +11,7 @@
   - [Nessus](https://github.com/GeneralJey/Vulnerability-Management)
 
 - <b>Active Directory</b>
-  - [Adding New Users](https://github.com/GeneralJey/Adding-New-Users-Computers/blob/main/README.md)
+  - [Adding New Users](https://github.com/GeneralJey/Adding-New-Users)
   
 - <b>Python</b>
   - []()
