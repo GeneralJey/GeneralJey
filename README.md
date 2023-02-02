@@ -8,13 +8,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulneravility Management</b>
-  - [Nessus Lab](https://github.com/GeneralJey/Vulnerability-Management)
+  - [Nessus](https://github.com/GeneralJey/Vulnerability-Management)
 
 - <b>Active Directory</b>
   - [Adding New Users](https://github.com/GeneralJey/Adding-New-Users-Computers/blob/main/README.md)
   
 - <b>Python</b>
-  - [Active Directory Home Lab]()
+  - []()
   
 
 
