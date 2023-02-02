@@ -11,7 +11,7 @@
   - [Nessus Lab](https://github.com/GeneralJey/Vulnerability-Management)
 
 - <b>Active Directory</b>
-  - [Adding New Users & Computers]()
+  - [Adding New Users & Computers](https://github.com/GeneralJey/Adding-New-Users-Computers/blob/main/README.md)
   
 - <b>Python</b>
   - [Active Directory Home Lab]()
