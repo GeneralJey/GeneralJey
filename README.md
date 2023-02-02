@@ -1,6 +1,5 @@
 <h1>Hi, I'm Jermaine! <br/><a href="https://www.linkedin.com/in/jermaine-faltine/">Cybersecurity Professional</a></h1>
 
-<h2>📄 Certifications:</h2>
 
 - [<b>Security+</b>](https://www.credly.com/badges/e7901512-6674-49fd-a391-6d0bdcfefe0a/linked_in_profile)
 
@@ -11,8 +10,8 @@
 - <b>Vulneravility Management</b>
   - [Nessus Lab](https://github.com/GeneralJey/Vulnerability-Management)
 
-- <b>PowerShell</b>
-  - [Active Directory Home Lab]()
+- <b>Active Directory</b>
+  - [Adding New Users & Computers]()
   
 - <b>Python</b>
   - [Active Directory Home Lab]()
