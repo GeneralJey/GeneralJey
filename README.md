@@ -8,11 +8,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
+
+- <b>Vulneravility Management</b>
+  - [Nessus](https://github.com/GeneralJey/Vulnerability-Management)
+  
 - <b>SIEM</b>
   - [Microsoft Azure Sentinel](https://github.com/GeneralJey/Azure_Sentinel-)
   
-- <b>Vulneravility Management</b>
-  - [Nessus](https://github.com/GeneralJey/Vulnerability-Management)
 
 - <b>Active Directory</b>
   - [Adding New Users](https://github.com/GeneralJey/Adding-New-Users)
